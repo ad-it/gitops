@@ -1,0 +1,3 @@
+kustomize:
+  images:
+  - ceasar221/nginx:v0.3.1
