@@ -16,6 +16,6 @@ spec:
       containers:
         - name: nginx
           imagePullPolicy: Always
-          image: ceasar221/nginx:v0.1.2
+          image: ceasar221/nginx:v0.1.0
           ports:
             - containerPort: 80
